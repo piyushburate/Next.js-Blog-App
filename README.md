@@ -103,15 +103,6 @@ That's it! You should now be able to access the app at http://localhost:3000
 
 Admin dashboard will also be available on http://localhost:300/editor/posts
 
-## Contributing
-
-- [Start a discussion](https://timtb.dev/contact) with a question, piece of feedback, or idea you want to share with me.
-- [Open an issue](https://github.com/timtbdev/Next.js-Blog-App/issues) if you believe you've encountered a bug with the starter kit.
-
-## 🙇 Author
-
-- Tim ([@timtbdev](https://twitter.com/timtbdev))
-
 ## License
 
 Licensed under the [MIT license](https://github.com/shadcn/taxonomy/blob/main/LICENSE.md).
